@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,32): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\edc\АП\5\5.51\Project1\UnitTest1\UnitTest1.cpp(16,12): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+     Creating library D:\edc\АП\5\5.51\Project1\Debug\UnitTest1.lib and object D:\edc\АП\5\5.51\Project1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\edc\АП\5\5.51\Project1\Debug\UnitTest1.dll
